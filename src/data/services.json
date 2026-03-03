@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "IT Consulting",
+        "description": "Konsultasi teknologi untuk membantu bisnis Anda memilih solusi IT yang tepat dan efisien.",
+        "icon": "lightbulb",
+        "price": "Free",
+        "features": [
+            "Analisis kebutuhan",
+            "Rekomendasi teknologi",
+            "Architecture planning",
+            "Best practices review",
+            "Roadmap development"
+        ],
+        "popular": true
+    },
+    {
+        "id": 2,
+        "title": "Install Ulang/Recovery PC & Laptop",
+        "description": "Install ulang atau recovery PC/Laptop Anda dengan sistem operasi yang terbaru dan terupdate. Kami juga menyediakan layanan install software sesuai kebutuhan Anda.",
+        "icon": "wrench",
+        "price": "Rp 150.000",
+        "features": [
+            "Windows",
+            "Linux",
+            "MacOS",
+            "Software Office",
+            "Aplikasi Standard",
+            "Garansi 1 Bulan"
+        ],
+        "popular": true
+    },
+    {
+        "id": 3,
+        "title": "Maintenance & Support",
+        "description": "Layanan pemeliharaan dan dukungan teknis untuk Perangkat IT dan Jaringan Anda agar selalu optimal.",
+        "icon": "wrench",
+        "price": "Rp 750.000",
+        "features": [
+            "Bug fixing (aplikasi)",
+            "Security updates",
+            "Performance monitoring",
+            "Troubleshooting",
+            "Backup berkala",
+            "24/7 support"
+        ],
+        "popular": true
+    },
+    {
+        "id": 4,
+        "title": "Upgrade RAM/Storage PC & Laptop",
+        "description": "Upgrade RAM/Storage PC/Laptop Anda agar lebih cepat dan responsif.",
+        "icon": "globe",
+        "price": "Rp 250.000",
+        "features": [
+            "RAM",
+            "Storage",
+            "HDD/SSD",
+            "Include Install Ulang",
+            "Garansi 6 Bulan"
+        ],
+        "popular": false
+    },
+    {
+        "id": 5,
+        "title": "Instalasi Perangkat IT & Jaringan",
+        "description": "Layanan instalasi perangkat IT dan Jaringan untuk kebutuhan bisnis Anda. CCTV, Access Point, Mikrotik, Access Door, dll.",
+        "icon": "wrench",
+        "price": "Rp 1.000.000",
+        "features": [
+            "Survey sebelum instalasi",
+            "Analisa Kebutuhan Perangkat",
+            "Estimasi harga diluar material",
+            "Setting Awal",
+            "Support 3 Bulan setelah instalasi"
+        ],
+        "popular": false
+    },
+    {
+        "id": 6,
+        "title": "Web Application",
+        "description": "Pengembangan aplikasi web custom sesuai kebutuhan bisnis. Dari sistem manajemen hingga dashboard analytics.",
+        "icon": "code",
+        "price": "Rp 5.000.000",
+        "features": [
+            "Custom development",
+            "Database design",
+            "API integration",
+            "User authentication",
+            "Admin dashboard",
+            "Support 60 hari"
+        ],
+        "popular": false
+    },
+    {
+        "id": 7,
+        "title": "Desain Grafis",
+        "description": "Desain antarmuka yang intuitif dan menarik. Dari wireframe hingga prototype interaktif.",
+        "icon": "palette",
+        "price": "Rp 35.000",
+        "features": [
+            "3 kali revisi",
+            "Desain Feed Instagram",
+            "Desain Story Instagram",
+            "Desain Banner",
+            "Desain Poster"
+        ],
+        "popular": false
+    }
+]

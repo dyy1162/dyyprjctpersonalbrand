@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Andi Pratama",
+        "role": "Owner, Toko Maju Jaya",
+        "comment": "Website yang dibuat oleh dyyProject sangat profesional dan responsif. Penjualan online kami meningkat 40% setelah menggunakan website baru!",
+        "rating": 5,
+        "avatar": null
+    },
+    {
+        "id": 2,
+        "name": "Siti Rahayu",
+        "role": "Marketing Manager, PT Digital Nusantara",
+        "comment": "Pelayanan sangat cepat dan hasil memuaskan. Tim dyyProject sangat memahami kebutuhan bisnis kami dan memberikan solusi yang tepat.",
+        "rating": 5,
+        "avatar": null
+    },
+    {
+        "id": 3,
+        "name": "Budi Santoso",
+        "role": "Founder, StartupKu",
+        "comment": "dyyProject membantu kami membangun MVP dalam waktu singkat. Kualitas kode rapi dan mudah dikembangkan. Highly recommended!",
+        "rating": 5,
+        "avatar": null
+    },
+    {
+        "id": 4,
+        "name": "Diana Putri",
+        "role": "Owner, Klinik Sehat Sentosa",
+        "comment": "Sistem booking online yang dibuat sangat memudahkan pasien kami. Support after-sales juga sangat responsif.",
+        "rating": 4,
+        "avatar": null
+    },
+    {
+        "id": 5,
+        "name": "Reza Firmansyah",
+        "role": "CEO, CV Cahaya Digital",
+        "comment": "Sudah 2 tahun bekerja sama dengan dyyProject. Selalu puas dengan hasilnya. Profesional dan komunikatif.",
+        "rating": 5,
+        "avatar": null
+    },
+    {
+        "id": 6,
+        "name": "Mega Lestari",
+        "role": "Owner, Salon Cantik",
+        "comment": "Aplikasi booking yang dibuat sangat user-friendly. Pelanggan saya jadi lebih mudah untuk reservasi. Terima kasih dyyProject!",
+        "rating": 5,
+        "avatar": null
+    }
+]
