@@ -1,25 +1,20 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import HeroSection from './components/HeroSection';
-import AboutSection from './components/AboutSection';
-import ProjectsSection from './components/ProjectsSection';
-import ServicesSection from './components/ServicesSection';
-import TestimonialsSection from './components/TestimonialsSection';
-import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
+import HomePage from './pages/HomePage';
+import AboutPage from './pages/AboutPage';
+import ProjectsPage from './pages/ProjectsPage';
 
 export default function App() {
   return (
-    <>
+    <BrowserRouter>
       <Navbar />
-      <main>
-        <HeroSection />
-        <AboutSection />
-        <ProjectsSection />
-        <ServicesSection />
-        <TestimonialsSection />
-        <ContactSection />
-      </main>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/projects" element={<ProjectsPage />} />
+      </Routes>
       <Footer />
-    </>
+    </BrowserRouter>
   );
 }

@@ -1,116 +1,145 @@
 [
     {
         "id": 1,
-        "title": "Service Mainboard Laptop",
-        "description": "Service Mainboard Laptop Asus di kantor Pelni Makassar.",
-        "image": null,
-        "techStack": [
-            "Mainboard",
-            "Asus"
-        ],
-        "category": "Service",
-        "link": "#"
-    },
-    {
-        "id": 2,
-        "title": "Upgrade RAM",
-        "description": "Upgrade RAM Laptop Acer",
-        "image": null,
-        "techStack": [
-            "Acer",
-            "RAM"
-        ],
-        "category": "Service",
-        "link": "#"
-    },
-    {
-        "id": 3,
-        "title": "Upgrade SSD",
-        "description": "Upgrade SSD Laptop Lenovo",
-        "image": null,
-        "techStack": [
-            "Lenovo",
-            "SSD"
-        ],
-        "category": "Service",
-        "link": "#"
-    },
-    {
-        "id": 4,
-        "title": "Troubleshooting BSOD",
-        "description": "Troubleshooting BSOD PC di Balai Diklat Agama Makassar",
-        "image": null,
-        "techStack": [
-            "PC",
-            "BSOD"
-        ],
-        "category": "Service",
-        "link": "#"
-    },
-    {
-        "id": 5,
-        "title": "Instalasi CCTV, PABX & Jaringan",
-        "description": "Instalasi CCTV, PABX & Jaringan di Kantor Woodland Residence Makassar",
-        "image": null,
-        "techStack": [
-            "CCTV",
-            "PABX",
-            "Jaringan"
-        ],
-        "category": "Instalasi",
-        "link": "#"
-    },
-    {
-        "id": 6,
         "title": "Peremajaan Perangkat Server",
-        "description": "Peremajaan Perangkat Server di Bapenda Kota Makassar",
+        "description": "Peremajaan & upgrade server utama di Bapenda Kota Makassar. Meliputi penggantian unit server, konfigurasi storage, dan restrukturisasi jaringan untuk meningkatkan performa sistem perpajakan daerah.",
         "image": "https://integrasolusi.co.id/wp-content/uploads/2025/02/Peremajaan-perangkat-server-di-bapenda-kota-makassar-3-Copy.jpg",
         "techStack": [
             "Server",
             "Storage",
-            "Jaringan"
+            "Networking",
+            "RAID"
         ],
         "category": "Instalasi",
+        "client": "Bapenda Kota Makassar",
+        "year": "2024",
+        "status": "Selesai",
+        "featured": true,
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "title": "Instalasi CCTV, PABX & Jaringan",
+        "description": "Instalasi sistem keamanan CCTV 24 titik, sistem telepon PABX, dan jaringan LAN/WiFi enterprise di Woodland Residence Makassar. Proyek dikerjakan dalam 2 minggu dengan tim 4 teknisi.",
+        "image": "https://integrasolusi.co.id/wp-content/uploads/2025/02/Instalasi-cctv-pabx-dan-lokal-wifi-di-kantor-woodland-residence-5-Copy.jpg",
+        "techStack": [
+            "CCTV",
+            "PABX",
+            "LAN",
+            "WiFi",
+            "Fiber Optic"
+        ],
+        "category": "Instalasi",
+        "client": "Woodland Residence Makassar",
+        "year": "2024",
+        "status": "Selesai",
+        "featured": true,
+        "link": "#"
+    },
+    {
+        "id": 3,
+        "title": "POS System Application",
+        "description": "Pengembangan sistem Point of Sale (POS) custom untuk restaurant dengan fitur order management real-time, kitchen display system (KDS), manajemen meja, dan dashboard reporting analitik.",
+        "image": null,
+        "techStack": [
+            "Node.js",
+            "PostgreSQL",
+            "React",
+            "Rust"
+        ],
+        "category": "Web App",
+        "client": "Confidential",
+        "year": "2024",
+        "status": "Development",
+        "featured": true,
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "title": "Instalasi Jaringan Starlink",
+        "description": "Instalasi dan konfigurasi jaringan internet Starlink dengan perangkat Mikrotik Router untuk distribusi bandwidth optimal di lingkungan kantor CV Jaya Abadi Makassar.",
+        "image": null,
+        "techStack": [
+            "Starlink",
+            "Mikrotik",
+            "BGP",
+            "Wireless"
+        ],
+        "category": "Instalasi",
+        "client": "CV Jaya Abadi Makassar",
+        "year": "2024",
+        "status": "Selesai",
+        "featured": false,
+        "link": "#"
+    },
+    {
+        "id": 5,
+        "title": "Maintenance IT — Hyatt Place",
+        "description": "Kontrak maintenance bulanan perangkat IT di Hyatt Place Makassar. Mencakup pemeliharaan PC, printer jaringan, access point, dan koordinasi dengan tim head office.",
+        "image": null,
+        "techStack": [
+            "PC Maintenance",
+            "Printer",
+            "Access Point",
+            "Network"
+        ],
+        "category": "Maintenance",
+        "client": "Hyatt Place Makassar",
+        "year": "2023–2024",
+        "status": "Ongoing",
+        "featured": false,
+        "link": "#"
+    },
+    {
+        "id": 6,
+        "title": "Service Mainboard Laptop Pelni",
+        "description": "Diagnosa dan service mainboard laptop Asus milik pegawai Kantor Pelni Makassar. Penggantian komponen IC power dan reballing chip grafis untuk mengembalikan fungsi laptop ke kondisi optimal.",
+        "image": null,
+        "techStack": [
+            "Mainboard Repair",
+            "Reballing",
+            "Asus"
+        ],
+        "category": "Service",
+        "client": "Kantor Pelni Makassar",
+        "year": "2023",
+        "status": "Selesai",
+        "featured": false,
         "link": "#"
     },
     {
         "id": 7,
-        "title": "Instalasi Jaringan Starlink",
-        "description": "Instalasi Jaringan Starlink di CV Jaya Abadi Makassar",
+        "title": "Troubleshooting BSOD — Balai Diklat",
+        "description": "Diagnosa dan penanganan masalah Blue Screen of Death (BSOD) pada 12 unit PC di Balai Diklat Agama Makassar. Identifikasi akar masalah driver konflik dan registry corrupt.",
         "image": null,
         "techStack": [
-            "Starlink",
-            "Jaringan",
-            "Mikrotik Router"
+            "Windows Troubleshooting",
+            "Driver Fix",
+            "Registry"
         ],
-        "category": "Instalasi",
+        "category": "Service",
+        "client": "Balai Diklat Agama Makassar",
+        "year": "2023",
+        "status": "Selesai",
+        "featured": false,
         "link": "#"
     },
     {
         "id": 8,
-        "title": "Maintenance Perangkat IT",
-        "description": "Maintenance Perangkat IT di Hyatt Place Makassar",
+        "title": "Upgrade RAM & SSD Laptop",
+        "description": "Upgrade performa laptop Acer dan Lenovo dengan pemasangan RAM tambahan (8GB → 16GB) dan penggantian HDD ke SSD NVMe. Peningkatan kecepatan boot hingga 3x lebih cepat.",
         "image": null,
         "techStack": [
-            "PC",
-            "Printer",
-            "Jaringan"
+            "RAM Upgrade",
+            "SSD NVMe",
+            "Acer",
+            "Lenovo"
         ],
-        "category": "Maintenance",
-        "link": "#"
-    },
-    {
-        "id": 9,
-        "title": "POS System",
-        "description": "Point of Sale system untuk restaurant dengan fitur order management, kitchen display, dan reporting.",
-        "image": null,
-        "techStack": [
-            "Node.js",
-            "Rust",
-            "PostgreSQL",
-            "pnpm/npm/yarn"
-        ],
-        "category": "Web App",
+        "category": "Service",
+        "client": "Multiple Clients",
+        "year": "2023",
+        "status": "Selesai",
+        "featured": false,
         "link": "#"
     }
 ]
